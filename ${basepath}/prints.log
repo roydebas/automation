@@ -1,0 +1,4 @@
+12:46:05.589 [main] INFO  Academy.E2EProject.ValidationTitle - driver is initialize
+12:46:28.462 [main] INFO  Academy.E2EProject.ValidationTitle - navigated to Homepage
+11:46:36.708 [TestNG-tests-1] INFO  Academy.E2EProject.ValidationTitle - driver is initialize
+11:46:39.399 [TestNG-tests-1] INFO  Academy.E2EProject.ValidationTitle - navigated to Homepage

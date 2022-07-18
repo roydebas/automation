@@ -1,0 +1,6 @@
+19:42:23.068 [main] INFO  Academy.E2EProject.ValidationTitle - driver is initialize
+19:42:45.670 [main] INFO  Academy.E2EProject.ValidationTitle - navigated to Homepage
+19:47:15.475 [main] INFO  Academy.E2EProject.ValidationTitle - driver is initialize
+19:47:36.648 [main] INFO  Academy.E2EProject.ValidationTitle - navigated to Homepage
+19:47:36.730 [main] INFO  Academy.E2EProject.ValidationTitle - validated text step
+19:49:42.099 [main] INFO  Academy.E2EProject.ValidationTitle - driver is initialize
